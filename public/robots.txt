@@ -1,0 +1,26 @@
+User-agent: *
+Disallow:/uploads
+Disallow:/js/
+Disallow:/fonts/
+Disallow:/css/
+
+Disallow:/admin
+Disallow:/pages
+Disallow:/pages/ourprocedures
+Disallow:/pages/paymentmethod
+Disallow:/pages/termsandconditions
+Disallow:/resetpassword
+Disallow:/resetpassword
+
+
+Disallow:../database/
+Disallow:../config/
+Disallow:../bootstrap/
+Disallow:../app/
+Disallow:../routes/
+Disallow:../storage/
+Disallow:../vendor/
+Disallow:../tests/
+Disallow:../public/
+Disallow:../config/
+Disallow:/admin
